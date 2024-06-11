@@ -3,18 +3,18 @@
 This is the official repository for SCRREAM (**SC**an, **R**egister, **RE**nder **A**nd **M**ap) dataset. We provide code example and intruction for visualizing our dataset as well as dataset download link.
 
 ## Link to Download Dataset
-Indoor Reconstruction and SLAM dataset & Object Removal and Scene Editing dataset :
+**Indoor Reconstruction and SLAM dataset & Object Removal and Scene Editing dataset :**
 
-https://drive.google.com/file/d/1Lu5VdlLn5NNoPSh2Tp90M6NF2Y1us677/view?usp=sharing (scene01-05, 59Gb) 
-https://drive.google.com/file/d/1V8HRX4-12jv-ZNW6AM_fyHoNiDstBV8q/view?usp=sharing (scene06-11, 101Gb) 
+https://drive.google.com/file/d/1Lu5VdlLn5NNoPSh2Tp90M6NF2Y1us677/view?usp=sharing (scene01-05, 59 Gb) 
+https://drive.google.com/file/d/1V8HRX4-12jv-ZNW6AM_fyHoNiDstBV8q/view?usp=sharing (scene06-11, 101 Gb) 
 
-Human Reconstruction Dataset :
+**Human Reconstruction Dataset :**
 
-https://drive.google.com/file/d/1BHHb5ibNsYsm00FXUrwLRkvC630sYq3U/view?usp=sharing (scene01-02, 7.7Gb)
+https://drive.google.com/file/d/1BHHb5ibNsYsm00FXUrwLRkvC630sYq3U/view?usp=sharing (scene01-02, 7.7 Gb)
 
-Pose Estimation Dataset :
+**Pose Estimation Dataset :**
 
-https://drive.google.com/file/d/1kcy8DCu6L2GtU2vK22w9FhhlLP6ljq9b/view?usp=sharing (scene01-02, 7.4Gb)
+https://drive.google.com/file/d/1kcy8DCu6L2GtU2vK22w9FhhlLP6ljq9b/view?usp=sharing (scene01-02, 7.4 Gb)
 
 Once the dataset is downloaded, unzip in the ```dataset``` folder.
 It should look like this
