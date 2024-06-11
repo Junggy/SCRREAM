@@ -1,2 +1,6 @@
 dataset/*
+dataset/!README.txt
+
 models/*
+models/!README.txt
+
