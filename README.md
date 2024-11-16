@@ -8,6 +8,21 @@ This is the official repository for SCRREAM (**SC**an, **R**egister, **RE**nder 
 https://drive.google.com/file/d/1Lu5VdlLn5NNoPSh2Tp90M6NF2Y1us677/view?usp=sharing (scene01-05, 59 Gb) 
 https://drive.google.com/file/d/1V8HRX4-12jv-ZNW6AM_fyHoNiDstBV8q/view?usp=sharing (scene06-11, 101 Gb) 
 
+In case of slow internet, please download with smaller zip files
+
+https://drive.google.com/file/d/11QIO2ZT2DnFo8V9OMiBzMjRAwjcUJ5qC/view?usp=sharing (scene01)\
+https://drive.google.com/file/d/1jvIucH0PI9hkuYy3cRwYR7_eFpt7Nhpi/view?usp=sharing (scene02)\
+https://drive.google.com/file/d/1mL2NajhaUxXvhvjGd7WPe7KKe037TshJ/view?usp=sharing (scene03)\
+https://drive.google.com/file/d/1Tj6LckAubUd-OI8SwCEwULgwjRatdZbD/view?usp=sharing (scene04)\
+https://drive.google.com/file/d/1E7Ahm4ERde9gXsUb3pXVJntOFWUqWSil/view?usp=sharing (scene05)\
+https://drive.google.com/file/d/16kB_pjzb5V-VS8Ma-EVwtJYH0jxt1ptb/view?usp=sharing (scene06)\
+https://drive.google.com/file/d/1-f-RkDdjVKwJdZeGLHGPwpz--cJNd11M/view?usp=sharing (scene07)\
+https://drive.google.com/file/d/1VPlD4zvALDeDfPtXBigubgAJxJlueZBA/view?usp=sharing (scene08)\
+https://drive.google.com/file/d/1DUBOMxurmjWSU2R5MUs6iXJMFyKTBhIA/view?usp=sharing (scene09)\
+https://drive.google.com/file/d/1h2v4hrY3IxsR49MV65ZOxXI8xMMHGL1Y/view?usp=sharing (scene10)\
+https://drive.google.com/file/d/1fwjpmXQ29sO_wk1SOmfdhlGq7Kyv8crN/view?usp=sharing (scene11)
+
+
 **Human Reconstruction Dataset :**
 
 https://drive.google.com/file/d/1BHHb5ibNsYsm00FXUrwLRkvC630sYq3U/view?usp=sharing (scene01-02, 7.7 Gb)
