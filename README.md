@@ -1,6 +1,7 @@
 # SCRREAM
 
 This is the official repository for SCRREAM (**SC**an, **R**egister, **RE**nder **A**nd **M**ap) benchmark dataset (accepted at **NeurIPS 2024**). We provide code example and intruction for visualizing our dataset as well as dataset download link.
+For the further info, please check our arxiv (https://arxiv.org/pdf/2410.22715) and project page (https://sites.google.com/view/scrream/about)
 
 ## Link to Download Dataset
 **Indoor Reconstruction and SLAM dataset & Object Removal and Scene Editing dataset :**
