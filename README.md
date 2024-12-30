@@ -127,6 +127,17 @@ The visualization is formatted as 1x1 image layout with the given format:
 ```
 | (RGB with Pose 3D Bounding Box and Mask) |
 ```
-
+## Citation
+```
+@misc{jung2024scrreamscanregister,
+      title={SCRREAM : SCan, Register, REnder And Map:A Framework for Annotating Accurate and Dense 3D Indoor Scenes with a Benchmark}, 
+      author={HyunJun Jung and Weihang Li and Shun-Cheng Wu and William Bittner and Nikolas Brasch and Jifei Song and Eduardo Pérez-Pellitero and Zhensong Zhang and Arthur Moreau and Nassir Navab and Benjamin Busam},
+      year={2024},
+      eprint={2410.22715},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2410.22715}, 
+}
+```
 
 
